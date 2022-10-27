@@ -67,7 +67,7 @@
   ],
   "globalStyle": {
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "uni-app",
+    "navigationBarTitleText": "JavaDog Chat",
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColorTop":"#FFFFFF",
     "backgroundColor": "#F8F8F8",

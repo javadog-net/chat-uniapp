@@ -298,5 +298,12 @@ export default {
     font-size: 28upx;
   }
 }
+::v-deep .u-tooltip__wrapper{
+	white-space: break-spaces!important;
+}
+
+::v-deep .u-tooltip{
+	display: block;
+}
 
 </style>

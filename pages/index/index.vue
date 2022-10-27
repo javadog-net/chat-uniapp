@@ -515,5 +515,15 @@ export default {
   }
 }
 
-
+::v-deep .u-cell__body__content{
+	max-width: 82%!important;
+}
+::v-deep .u-cell__title{
+	max-width: 82%!important;
+}
+::v-deep .u-cell__label{
+	overflow: hidden!important;
+	text-overflow: ellipsis!important;
+	white-space: nowrap!important;
+}
 </style>
