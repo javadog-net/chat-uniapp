@@ -1,6 +1,6 @@
 <template>
   <view>
-    <navbar type="second" title="我添加的"></navbar>
+    <navbar type="second" title="添加我的"></navbar>
     <u-empty v-if="invitationList.length==0" marginTop="200upx" mode="list"
              icon="http://cdn.uviewui.com/uview/empty/list.png">
     </u-empty>
